@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado>
+        <nombre>Juan Pérez</nombre>
+        <edad>30</edad>
+        <departamento>Ventas</departamento>
+        <salario>2500.50</salario>
+    </empleado>
+    <empleado>
+        <nombre>Maria López</nombre>
+        <edad>28</edad>
+        <departamento>Marketing</departamento>
+        <salario>2800.75</salario>
+    </empleado>
+    <empleado>
+        <nombre>Carlos García</nombre>
+        <edad>35</edad>
+        <departamento>IT</departamento>
+        <salario>3000.00</salario>
+    </empleado>
+</empleados>
